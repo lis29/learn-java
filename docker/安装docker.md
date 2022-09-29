@@ -13,8 +13,6 @@ yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce
 yum install -y docker-ce
 # 5、 查看docker版本，验证是否验证成功
 docker -v
-lishuai1989827
-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
 ```
 
 
